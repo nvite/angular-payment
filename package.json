@@ -32,10 +32,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/michaeldick/angular-payment.git"
+    "url": "https://github.com/nvite/angular-payment.git"
   },
   "bugs": {
-    "url": "https://github.com/michaeldick/angular-payment/issues"
+    "url": "https://github.com/nvite/angular-payment/issues"
   },
-  "homepage": "https://github.com/michaeldick/angular-payment"
+  "homepage": "https://github.com/nvite/angular-payment"
 }
